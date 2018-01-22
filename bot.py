@@ -36,4 +36,4 @@ async def on_ready():
 
 
 # Test bot
-bot.run('NDA1MDc1MTA5NzE2NDI2NzY2.DUfHHg.nFehoOcrnbIZAEK0c7rh4Rqywj4')
+bot.run('NDA1MDgwNTUxMjU5NzY2Nzg0.DUfMPg.XxPc88PM2W9zbywtHBojrApkUUU')
